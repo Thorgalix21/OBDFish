@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>OBD ELM327 car diagnostic reader application for Sailfish OS</source>
-        <translation>Application de diagnostique véhicule par lecteur OBD ELM327 pour Sailfish OS</translation>
+        <translation>Application de diagnostic véhicule par lecteur OBD ELM327 pour Sailfish OS</translation>
     </message>
     <message>
         <source>License: GPLv3</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Feedback, bugs:</source>
-        <translation>Retours, bugs:</translation>
+        <translation>Retours, bogues:</translation>
     </message>
 </context>
 <context>
@@ -40,7 +40,7 @@
     </message>
     <message>
         <source>The more parameters are requested, the higher the cycle time.&lt;br&gt;To get a more responsive cycle time, go to settings and reduce amount of parameters for this page.</source>
-        <translation>Plus il y a de paramètres demandée, plus le temps de cycle est élevé.&lt;br&gt;Pour avoir un temps de cycle plus réactif, aller dans les paramètres et réduire le nombre de paramètres sur cette page.</translation>
+        <translation>Plus il y a de paramètres demandés, plus le temps de cycle est élevé.&lt;br&gt;Pour avoir un temps de cycle plus réactif, aller dans les paramètres et réduire le nombre de paramètres pour cette page.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>The more parameters are requested, the higher the cycle time.&lt;br&gt;To get a more responsive cycle time, go to settings and reduce amount of parameters for this page.</source>
-        <translation>Plus il y a de paramètres demandée, plus le temps de cycle est élevé.&lt;br&gt;Pour avoir un temps de cycle plus réactif, aller dans les paramètres et réduire le nombre de paramètres sur cette page.</translation>
+        <translation>Plus il y a de paramètres demandés, plus le temps de cycle est élevé.&lt;br&gt;Pour avoir un temps de cycle plus réactif, aller dans les paramètres et réduire le nombre de paramètres pour cette page.</translation>
     </message>
     <message>
         <source>Cycle time: </source>
@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>The more parameters are requested, the higher the cycle time.&lt;br&gt;To get a more responsive cycle time, go to settings and reduce amount of parameters for this page.</source>
-        <translation>Plus il y a de paramètres demandée, plus le temps de cycle est élevé.&lt;br&gt;Pour avoir un temps de cycle plus réactif, aller dans les paramètres et réduire le nombre de paramètres sur cette page.</translation>
+        <translation>Plus il y a de paramètres demandés, plus le temps de cycle est élevé.&lt;br&gt;Pour avoir un temps de cycle plus réactif, aller dans les paramètres et réduire le nombre de paramètres pour cette page.</translation>
     </message>
     <message>
         <source>Cycle time: </source>
@@ -101,7 +101,7 @@
     </message>
     <message>
         <source>Error codes:</source>
-        <translation>Code d&apos;erreurs:</translation>
+        <translation>Codes d&apos;erreur:</translation>
     </message>
     <message>
         <source>Your vehicle has </source>
@@ -125,11 +125,11 @@
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>Etes vous sûrs?</translation>
+        <translation>Etes vous sûr?</translation>
     </message>
     <message>
         <source>NOTE: if you proceed, all trouble code information is immediately lost!&lt;br&gt;Your vehicle may run poorly for a short time, while it performs a recalibration.</source>
-        <translation>NOTE: Si vous continuez, toutes les informations de code défaut seront perdues!&lt;br&gt;Votre véhicule peux fonctionner difficilement pour un cours instant, pendant qu&apos;il réalise une recalibration.</translation>
+        <translation>NOTE: Si vous continuez, toutes les informations de code défaut seront perdues!&lt;br&gt;Votre véhicule peut fonctionner difficilement pendant un cours instant, le temps qu&apos;il réalise un recalibrage.</translation>
     </message>
     <message>
         <source>Reading values...</source>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>Fuel type: </source>
-        <translation>Type carburant: </translation>
+        <translation>Type de carburant: </translation>
     </message>
     <message>
         <source>Reading values...</source>
@@ -201,11 +201,11 @@
     </message>
     <message>
         <source>Write debug file</source>
-        <translation>Ecrire le fichier de débug</translation>
+        <translation>Ecrire le fichier de déboguage</translation>
     </message>
     <message>
         <source>Communication with vehicle is saved to a file: $HOME/Documents/obd_log.txt</source>
-        <translation>La communication avec le véhicule est sauvegardé dans le fichier: $HOME/Documents/obd_log.txt</translation>
+        <translation>La communication avec le véhicule est sauvegardée dans le fichier: $HOME/Documents/obd_log.txt</translation>
     </message>
 </context>
 <context>
@@ -252,19 +252,19 @@
     </message>
     <message>
         <source>Switch echo off...</source>
-        <translation>Désactivation echo...</translation>
+        <translation>Désactivation de l&apos;affichage...</translation>
     </message>
     <message>
         <source>Switch linefeed off...</source>
-        <translation>Désactivation linefeed...</translation>
+        <translation>Désactivation du saut de ligne...</translation>
     </message>
     <message>
         <source>Switch headers off...</source>
-        <translation>Désactivation en-têtes...</translation>
+        <translation>Désactivation des en-têtes...</translation>
     </message>
     <message>
         <source>Set protocol...</source>
-        <translation>Définition protocole...</translation>
+        <translation>Définition du protocole...</translation>
     </message>
     <message>
         <source>Supported PID&apos;s 0101-0120...</source>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Successfully connected to car computer!</source>
-        <translation>Connecté avec succès au calculateur véhicule!</translation>
+        <translation>Connecté avec succès au calculateur du véhicule!</translation>
     </message>
     <message>
         <source>Connecting:</source>
@@ -324,7 +324,7 @@
     </message>
     <message>
         <source>No supported PID&apos;s found!&lt;br&gt;- turn on ignition/engine&lt;br&gt;- reconnect to OBD adapter</source>
-        <translation>Aucun PID supporté trouvé!&lt;br&gt;-Allumez le contact/moteur&lt;br&gt;- reconnectez à l&apos;adaptateur OBD</translation>
+        <translation>Aucun PID supporté trouvé!&lt;br&gt;- allumez le contact/moteur&lt;br&gt;- reconnectez vous à l&apos;adaptateur OBD</translation>
     </message>
 </context>
 <context>
@@ -351,19 +351,19 @@
     </message>
     <message>
         <source>Engine RPM</source>
-        <translation>RPM Moteur</translation>
+        <translation>Vitesse de rotation moteur t/min</translation>
     </message>
     <message>
         <source>rpm</source>
-        <translation>rpm</translation>
+        <translation>tr/min</translation>
     </message>
     <message>
         <source>Vehicle Speed</source>
-        <translation>Vitesse véhicule</translation>
+        <translation>Vitesse du véhicule</translation>
     </message>
     <message>
         <source>Timing Advance</source>
-        <translation></translation>
+        <translation>Avance à l&apos;allumage</translation>
     </message>
     <message>
         <source>Intake Air Temp</source>
@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>Air Flow Rate</source>
-        <translation></translation>
+        <translation>Débit d&apos;air</translation>
     </message>
     <message>
         <source>grams/sec</source>
@@ -383,7 +383,7 @@
     </message>
     <message>
         <source>Fuel Type</source>
-        <translation>Type carburant</translation>
+        <translation>Type de carburant</translation>
     </message>
     <message>
         <source>Not available</source>
@@ -431,11 +431,11 @@
     </message>
     <message>
         <source>Bifuel running electric and combustion engine</source>
-        <translation>Bicarburant Electrique et Moteur à combustion</translation>
+        <translation>Bicarburant Electrique et Moteur à explosion</translation>
     </message>
     <message>
         <source>Hybrid gasoline</source>
-        <translation>Hybrique essence</translation>
+        <translation>Hybride essence</translation>
     </message>
     <message>
         <source>Hybrid Electric</source>
@@ -443,8 +443,7 @@
     </message>
     <message>
         <source>Hybrid running electric and combustion engine</source>
-        <translation>Hybride Electrique et Moteur à
- combustion</translation>
+        <translation>Hybride Electrique et Moteur à explosion</translation>
     </message>
     <message>
         <source>Hybrid Regenerative</source>
@@ -464,7 +463,7 @@
     </message>
     <message>
         <source>OBD as defined by the EPA</source>
-        <translation>OBD-tel que défini par l&apos;EPA</translation>
+        <translation>OBD tel que défini par l&apos;EPA</translation>
     </message>
     <message>
         <source>OBD and OBD-II</source>
@@ -508,19 +507,19 @@
     </message>
     <message>
         <source>Short term fuel trim, Bank 1</source>
-        <translation>Correction de carburant à court terme, banque 1</translation>
+        <translation>Correction de carburant instantanée, banque 1</translation>
     </message>
     <message>
         <source>Long term fuel trim, Bank 1</source>
-        <translation>Correction de carburant à long terme, banque 1</translation>
+        <translation>Correction de carburant lissée, banque 1</translation>
     </message>
     <message>
         <source>Short term fuel trim, Bank 2</source>
-        <translation>Correction de carburant à court terme, banque 2</translation>
+        <translation>Correction de carburant instantanée, banque 2</translation>
     </message>
     <message>
         <source>Long term fuel trim, Bank 2</source>
-        <translation>Correction de carburant à long terme, banque 2</translation>
+        <translation>Correction de carburant lissée, banque 2</translation>
     </message>
     <message>
         <source>Fuel pressure</source>
@@ -528,7 +527,7 @@
     </message>
     <message>
         <source>Run time since engine start</source>
-        <translation>Temps depuis démarrage moteur</translation>
+        <translation>Temps de fonctionnement depuis démarrage moteur</translation>
     </message>
     <message>
         <source>&lt;br&gt;Open loop due to insufficient engine temperature</source>
@@ -536,11 +535,11 @@
     </message>
     <message>
         <source>&lt;br&gt;Closed loop, using O2 sensor for fuel mix</source>
-        <translation>&lt;br&gt;Boucle fermée, utilisant le capteur O2 pour le mix carburant</translation>
+        <translation>&lt;br&gt;Boucle fermée, utilisant le capteur O2 pour le mélange carburant</translation>
     </message>
     <message>
         <source>&lt;br&gt;Open loop due to engine load OR fuel cut due to deceleration</source>
-        <translation>&lt;br&gt;Boucle ouverte due à la charge moteur OU carburant coupé du à la décélération</translation>
+        <translation>&lt;br&gt;Boucle ouverte due à la charge moteur OU coupure carburant due à la décélération</translation>
     </message>
     <message>
         <source>&lt;br&gt;Open loop due to system failure</source>
